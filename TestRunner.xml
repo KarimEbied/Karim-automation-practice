@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TCrunner">
+    <test name="Testcase11">
+        <classes>
+            <class name="TC11"/>
+        </classes>
+    </test>
+    <test name="Testcase12">
+        <classes>
+            <class name="TC12"/>
+        </classes>
+    </test>
+    <test name="Testcase13">
+        <classes>
+            <class name="TC13"/>
+        </classes>
+    </test>
+    <test name="Testcase14">
+        <classes>
+            <class name="TC14"/>
+        </classes>
+    </test>
+    <test name="Testcase15">
+        <classes>
+            <class name="TC15"/>
+        </classes>
+    </test>
+</suite>
